@@ -1,5 +1,8 @@
 🌙 lunar-coding
 
+
+---
+
 Informatikstudent · Webentwicklung & Game Development Enthusiast · Lernend & Aufbauend
 
 Hi! Ich bin lunar-coding – Informatikstudent an der Heinrich-Heine-Universität Düsseldorf (seit 2022) und leidenschaftlicher Entwickler, der sich Schritt für Schritt in Richtung Web Development oder Game Development spezialisiert.
