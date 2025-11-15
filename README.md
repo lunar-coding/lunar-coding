@@ -5,6 +5,8 @@ Informatikstudent · Webentwicklung & Game Development Enthusiast · Lernend & A
 Hi! Ich bin lunar-coding – Informatikstudent an der Heinrich-Heine-Universität Düsseldorf (seit 2022) und leidenschaftlicher Entwickler, der sich Schritt für Schritt in Richtung Web Development oder Game Development spezialisiert.
 Ich nutze GitHub zum Lernen, Experimentieren, Projekte bauen und als Portfolio für Bewerbungen.
 
+---
+
 🚀 Über mich
 
 🎓 Bachelor Informatik – HHU Düsseldorf
@@ -17,26 +19,7 @@ Ich nutze GitHub zum Lernen, Experimentieren, Projekte bauen und als Portfolio f
 
 🌱 Ich arbeite kontinuierlich an kleineren Projekten, um meine Skills zu verbessern
 
-🛠️ Tech Stack
-Programmiersprachen
-
-Java · C · Python · SQL · JavaScript · HTML · CSS · Assembler
-
-Frameworks & Tools
-
-Spring Boot · Bootstrap · Docker · Git/GitHub · Flyway · PostgreSQL
-
-Software
-
-IntelliJ · Word · Excel · PowerPoint
-
-🌍 Sprachen
-
-🇩🇪 Deutsch (Muttersprache)
-🇦🇪 Arabisch (Muttersprache)
-🇬🇧 Englisch (Verhandlungssicher)
-🇫🇷 Französisch (Grundkenntnisse)
-🇯🇵 Japanisch (Grundkenntnisse)
+---
 
 📌 Ziele & Interessen
 
@@ -54,6 +37,8 @@ IntelliJ · Word · Excel · PowerPoint
 
 📂 Projekte (Auswahl – bald mehr!)
 
+---
+
 Ich arbeite aktuell an mehreren Projekten, die hier bald erscheinen:
 
 🔧 Web-App mit Spring Boot & PostgreSQL
@@ -64,11 +49,7 @@ Ich arbeite aktuell an mehreren Projekten, die hier bald erscheinen:
 
 ➡️ Weitere Projekte folgen – dieses Profil wächst aktiv!
 
-📫 Kontakt
-
-Wenn du mit mir an etwas arbeiten möchtest oder Feedback hast:
-👉 GitHub Issues oder LinkedIn (falls du später einen Link hinzufügen möchtest).
-
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lunarcodes.io) 
